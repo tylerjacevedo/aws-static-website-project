@@ -40,7 +40,10 @@ I built a serverless website using Amazon S3 for storage and Amazon CloudFront a
 ### 6. Create CloudFront Distribution
 ![Distribution](screenshots/distribution.png)
 
-### 7. Access Website via CloudFront
+### 7. Set Origin Protocol
+![Origin Protocol](screenshots/origin-protocol.png)
+
+### 8. Access Website via CloudFront
 ![CloudFront](screenshots/cloudfront-site.png)
 
 ## Key Learnings
