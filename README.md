@@ -1,13 +1,11 @@
 # aws-static-website-project
 Deployed a static website using AWS S3 and CloudFront
 
-# AWS Static Website Hosting Project 🚀
-
 ## Project Overview
 This project demonstrates how to deploy a scalable and cost-efficient static website using AWS cloud services.
 
 ## Business Scenario
-A small business needs a fast, reliable, and low-cost website solution that can be accessed globally without managing servers.
+A small business needs a fast, reliable, and low-cost static website solution that can be accessed globally without managing servers.
 
 ## Solution
 I built a serverless website using Amazon S3 for storage and Amazon CloudFront as a content delivery network (CDN) to improve performance and availability.
