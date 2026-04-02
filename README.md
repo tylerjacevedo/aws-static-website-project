@@ -22,6 +22,7 @@ I built a serverless website using Amazon S3 for storage and Amazon CloudFront a
 
 ## Implementation Steps
 1. Created an S3 bucket and uploaded a static HTML file
+![S3 Bucket](screenshots/bucket.png)
 2. Enabled static website hosting
 3. Configured bucket policy for public access
 4. Created a CloudFront distribution
