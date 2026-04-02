@@ -20,13 +20,28 @@ I built a serverless website using Amazon S3 for storage and Amazon CloudFront a
 - Amazon S3
 - Amazon CloudFront
 
-## Implementation Steps
-1. Created an S3 bucket and uploaded a static HTML file
+## Steps
+
+### 1. Create S3 Bucket
 ![S3 Bucket](screenshots/bucket.png)
-2. Enabled static website hosting
-3. Configured bucket policy for public access
-4. Created a CloudFront distribution
-5. Configured HTTPS and global delivery via CDN
+
+### 2. Configure Static Website Hosting
+![Static Hosting](screenshots/static-hosting.png)
+
+### 3. Set Bucket Policy
+![Bucket Policy](screenshots/bucket-policy.png)
+
+### 4. Enable Public Access
+![Public Access](screenshots/public-access.png)
+
+### 5. Access Website via S3 Endpoint
+![S3 Website](screenshots/s3-site.png)
+
+### 6. Create CloudFront Distribution
+![Distribution](screenshots/distribution.png)
+
+### 7. Access Website via CloudFront
+![CloudFront](screenshots/cloudfront-site.png)
 
 ## Key Learnings
 - How object storage can replace traditional web servers
